@@ -1,0 +1,41 @@
+		(change n_iters while keeping learning rate = 0.1)
+
+1)
+	learning rate = 0.1
+	n_iters = 10000
+	accuracy while training = 0.8057851239669421
+	error while testing = 29.0
+
+2)
+	learning rate = 0.1
+	n_iters = 100000
+	accuracy while training = 0.7933884297520661
+	error while testing = 28.0
+
+
+3)
+	learning rate = 0.1
+	n_iters = 1000
+	accuracy while training = 0.7933884297520661
+	error while testing = 34.0
+		
+		(change learning rate while keeping n_iters = 100000)
+
+4)
+	learning rate = 0.01
+	n_iters = 100000
+	accuracy while training = 0.8057851239669421
+	error while testing = 29.0
+
+
+5)
+	learning rate = 0.001
+	n_iters = 100000
+	accuracy while training = 0.7933884297520661
+	error while testing = 34.0
+
+6)
+	learning rate = 0.0001
+	n_iters = 100000
+	accuracy while training = 0.6818181818181818
+	error while testing = 61.0
